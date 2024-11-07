@@ -1,4 +1,5 @@
 ⚡ Harry Potter Themed Language Model Chatbot ⚡
+
 This project features a custom-trained chatbot capable of answering questions about the Harry Potter universe. Leveraging Hugging Face's transformers, langchain, and Gradio, the chatbot processes inputs to generate accurate and lore-based responses.
 
 🚀 Project Overview
